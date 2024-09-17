@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(16, 116, 116);
+    font-size: larger;
+    font-weight: 200px;
+}
+
+h1{
+    color: yellowgreen;
+}
+
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: yellowgreen;
+}
